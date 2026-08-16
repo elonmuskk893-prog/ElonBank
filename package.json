@@ -1,6 +1,6 @@
 {
   "name": "paytrace-saas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,13 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "@types/node": "22.15.30",
-    "@types/react": "19.1.2",
-    "@types/react-dom": "19.1.2",
     "lucide-react": "0.468.0",
     "next": "15.5.0",
     "react": "19.1.1",
-    "react-dom": "19.1.1",
-    "typescript": "5.8.3"
+    "react-dom": "19.1.1"
   }
 }
